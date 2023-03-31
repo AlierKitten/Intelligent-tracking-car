@@ -6,9 +6,9 @@
 ##### 4路红外源码   5路灰度源码
 
 # 红外
-`@version   V0.0.01`
+`@version   V0.0.1        @author    Danny`
 
-`@author    Danny`
+`@version   afterV0.0.1   @author    AlierKitten`
 ### *实验目的*
 
 `arduino单片机上电之后，先延时2s，接着按键K2，启动红外巡线功能，小车会自动的巡黑线行走。`
