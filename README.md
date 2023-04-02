@@ -1,14 +1,19 @@
 # Intelligent-tracking-car
+
 `基于Arduino的寻迹小车`
 
 ## **包含：**
 
 ##### 4路红外源码   5路灰度源码
 
-# 红外
+# ~~红外~~
+
+###### （咕咕咕）
+
 `@version   V0.0.1        @author    Danny`
 
 `@version   afterV0.0.1   @author    AlierKitten`
+
 ### *实验目的*
 
 `arduino单片机上电之后，先延时2s，接着按键K2，启动红外巡线功能，小车会自动的巡黑线行走。`
@@ -22,4 +27,5 @@
 如果最外面的检测到黑线，则小车以更大速度纠正到正确黑线上面
 
 # 灰度
+
 `@version   afterV0.0.1   @author    AlierKitten`
