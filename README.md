@@ -9,6 +9,10 @@
 
 # 灰度 
 代号v1
+`Preview` 未进行地图测试
+`alpha`   用普通地图测试
+`beta`    用比赛地图测试
+
 
 `@version   afterV0.0.1   @author    AlierKitten`
 
