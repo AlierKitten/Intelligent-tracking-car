@@ -1,6 +1,6 @@
 # Intelligent-tracking-car
 
-`基于Arduino的寻迹小车` `项目完成后将归档` `主更灰度` `红外仅做灾备`
+`基于Arduino` `项目完成后将归档` `主更灰度` `红外仅做灾备`
 
 
 
