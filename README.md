@@ -13,7 +13,7 @@
 
 `beta`      用比赛地图测试
 
-## [红外](https://github.com/AlierKitten/Intelligent-tracking-car/releases/tag/Infrared)
+## [红外](https://github.com/AlierKitten/Intelligent-tracking-car/releases/tag/1.12.2_Infrared)
 ###### （咕咕咕）
 
 `@version   V0.0.1  @author    Danny`
