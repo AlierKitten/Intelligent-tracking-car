@@ -4,7 +4,7 @@
 
 
 
-## [灰度](https://github.com/AlierKitten/Intelligent-tracking-car/releases)
+## [灰度](https://github.com/AlierKitten/Intelligent-tracking-car/releases/tag/1.12.2)
 `@version   v1      @author    AlierKitten`
 
 `Preview`   未进行地图测试
