@@ -15,6 +15,7 @@
 
 ## [红外](https://github.com/AlierKitten/Intelligent-tracking-car/releases/tag/1.12.2_Infrared)
 ###### （咕咕咕）
+##### 已经完成基于灰度修改
 
 `@version   V0.0.1  @author    Danny`
 
